@@ -35,9 +35,8 @@ Cat.M1 모듈 및 외장형 모뎀은 UART 인터페이스를 통해 활용하�
 <a name="Step-2-ATCommand"></a>
 ## AT 명령어
 
-> 좀 더 상세한 AT 명령어 설명은 Quectel AT Command Manual에서 확인 하실 수 있습니다.
-> * [Quectel_BG96_MQTT_Application_Note_V1.0][link-bg96-mqtt-an]
-> * [BG96_AT_Commands_Manual_V2.1][link-bg96-atcommand-manual]
+> 좀 더 상세한 AT 명령어 설명은 우리넷의 AT Command Manual에서 확인 하실 수 있습니다.
+> * [WM-N400MSE_AT_Commands_Guide_v1.1][link-wm-n400mse-atcommand-manual]
 
 ### 1. Cat M1 모듈의 일반적인 동작 설명은 생략
 
